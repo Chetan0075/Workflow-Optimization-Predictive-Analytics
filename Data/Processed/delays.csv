@@ -1,0 +1,11 @@
+delay_id,task_id,delay_days,reason
+1,3,10,"Data validation issues"
+2,4,12,"Resource overallocation"
+3,5,18,"Model tuning complexity"
+4,8,15,"Script performance issues"
+5,10,16,"Late data availability"
+6,11,20,"Infrastructure scaling delay"
+7,12,18,"Training data imbalance"
+8,14,10,"Dashboard redesign"
+9,16,21,"Customer requirement change"
+10,18,20,"High model training time"

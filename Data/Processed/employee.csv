@@ -1,0 +1,21 @@
+employee_id,name,role,skill_level,experience_years,hourly_cost
+101,"Amit Sharma","Data Analyst",Senior,5,1200
+102,"Neha Verma","Data Scientist",Senior,6,1500
+103,"Ravi Kumar","BI Developer",Mid,4,1100
+104,"Priya Singh","ML Engineer",Senior,7,1600
+105,"Arjun Patel","Cloud Engineer",Mid,4,1300
+106,"Karan Mehta","DevOps Engineer",Senior,6,1400
+107,"Simran Kaur","Business Analyst",Mid,3,1000
+108,"Rahul Das","Software Engineer",Junior,2,800
+109,"Sneha Roy","QA Engineer",Mid,4,900
+110,"Vikas Jain","Project Manager",Senior,8,1800
+111,"Anjali Gupta","Data Engineer",Senior,6,1500
+112,"Mohit Yadav","Automation Engineer",Mid,3,1000
+113,"Pooja Nair",Statistician,Senior,7,1400
+114,"Suresh Iyer","AI Engineer",Senior,8,1700
+115,"Nitin Malhotra","Security Analyst",Mid,4,1200
+116,"Rohit Bansal","ETL Developer",Mid,5,1300
+117,"Kavya Rao","Power BI Developer",Mid,4,1100
+118,"Deepak Joshi","Network Engineer",Senior,7,1500
+119,"Isha Kapoor","SAP Consultant",Senior,8,1600
+120,"Varun Khanna","Web Developer",Mid,3,1000
