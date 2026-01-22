@@ -113,4 +113,4 @@ BCA Student | Aspiring Data Analyst
 
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](dashboard_preview_01.png)
+![Dashboard Preview](Second_Page.png)
