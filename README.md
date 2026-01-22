@@ -109,3 +109,8 @@ Predictive analytics, not just descriptive
 
 Chetan Suraswal
 BCA Student | Aspiring Data Analyst
+
+
+
+## 📈 Dashboard Preview
+![Dashboard Preview](dashboard_preview_01.png)
