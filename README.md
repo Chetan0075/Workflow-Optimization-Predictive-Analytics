@@ -105,7 +105,7 @@ Predictive analytics, not just descriptive
 
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Chetan Suraswal
 BCA Student | Aspiring Data Analyst
