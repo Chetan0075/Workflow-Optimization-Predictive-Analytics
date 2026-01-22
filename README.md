@@ -1,7 +1,7 @@
-Workflow Optimization & Delay Prediction System
+# Workflow Optimization & Delay Prediction System
 End-to-End Data Analytics & ML Project (SQL|Python|Power BI)
 
-🔍 Project Overview
+## 🔍 Project Overview
 
 This project simulates a real-world IT services delivery environment and focuses on:
 
@@ -14,7 +14,7 @@ The goal is to help project managers and delivery heads identify inefficiencies,
 
  
 
-🧩 Business Problems Solved
+## 🧩 Business Problems Solved
 Why are projects getting delayed?
 Which tasks are bottlenecks?
 Which employees are overloaded or underutilized?
@@ -24,7 +24,7 @@ Where are cost overruns happening?
 
 
 
-🗂️ Dataset Structure
+## 🗂️ Dataset Structure
 Tables (SQL)
 projects – Project details
 tasks – Task-level planning vs actuals
@@ -35,7 +35,7 @@ cost tracking – Planned vs actual cost
 
 
 
-📊 Key KPIs
+## 📊 Key KPIs
 
 On-Time Delivery %
 Average Resource Utilization
@@ -47,7 +47,7 @@ Skill-Task Mismatch Index
 
 
 
-🤖 Machine Learning
+## 🤖 Machine Learning
 
 Models Built:
 Delay Classification (High / Medium / Low Risk)
@@ -62,7 +62,7 @@ Cost Variance
 
 
 
-📈 Power BI Dashboard Pages
+## 📈 Power BI Dashboard Pages
 1. Executive Overview
 High-level KPIs, project health, cost & delay risk.
 
@@ -86,7 +86,7 @@ Actionable suggestions for management.
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Layer	Tools
 Database	MySQL
 Analysis	Python (Pandas, NumPy, Scikit-learn)
@@ -95,7 +95,7 @@ Version Control	Git & GitHub
 
 
 
-🎯 What This Project Demonstrates
+## 🎯 What This Project Demonstrates
 
 End-to-end analytics pipeline (SQL → Python → ML → Power BI)
 Real business problem solving
