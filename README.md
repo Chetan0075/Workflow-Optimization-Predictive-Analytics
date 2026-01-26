@@ -1,4 +1,4 @@
-# Workflow Optimization & Delay Prediction System
+# Workflow Delay & Resource Optimization to Reduce Project Cost Overruns
 End-to-End Data Analytics & ML Project (SQL|Python|Power BI)
 
 
@@ -13,12 +13,15 @@ The goal is to help project managers and delivery heads identify inefficiencies,
 
  
 ## 🧩 Business Problems Solved
-Why are projects getting delayed?
-Which tasks are bottlenecks?
-Which employees are overloaded or underutilized?
-Is skill mismatch causing inefficiency?
-Which projects/tasks are likely to be delayed in future?
-Where are cost overruns happening?
+IT service projects often face delivery delays and cost overruns due to inefficient task allocation, skill mismatches, and poor resource utilization. This project analyzes workflow delays and resource usage to identify optimization opportunities and reduce cost impact.
+
+
+## Objectives
+dentify tasks causing maximum delays
+Quantify delay-driven cost overruns
+Analyze resource utilization and idle cost
+Detect skill mismatches impacting productivity
+Recommend data-driven resource reallocation decisions
 
 
 ## 🗂️ Dataset Structure
@@ -32,57 +35,27 @@ cost tracking – Planned vs actual cost
 
 
 ## 📊 Key KPIs
-On-Time Delivery %
-Average Resource Utilization
-Cost Overrun %
+Delay Rate (%)
 Average Delay Days
-Delay Risk Probability (ML)
-Overloaded Resources (>110%)
-Skill-Task Mismatch Index
+Delay Impact Cost (₹)
+Resource Utilization (%)
+Idle Cost (₹)
+Skill Match (%)
+Productivity Loss (₹)
 
 
-## 🤖 Machine Learning
-Models Built:
-Delay Classification (High / Medium / Low Risk)
-Delay Probability Prediction
-Workload Forecasting (Next Month)
-Features Used:
-Estimated vs Actual Hours
-Utilization %
-Skill Match
-Past Delay History
-Cost Variance
+## Tools & Technologies
+SQL (Analysis & Aggregations)
+Power BI (Data Modeling, DAX, Dashboards)
+Excel / CSV (Data preparation)
 
 
 ## 📈 Power BI Dashboard Pages
-1. Executive Overview
-High-level KPIs, project health, cost & delay risk.
-
-2. Workflow Bottlenecks
-Tasks by Delay Days
-Project × Task Heatmap
-Estimated vs Actual Cycle Time
-
-3. Resource Optimization
-Utilization by Employee
-Overloaded Resource Table
-Skill vs Task Mismatch Matrix
-
-4. Predictive Analytics
-Delay Probability by Task
-Workload Forecast
-Risk Classification (High / Medium / Low)
-
-5. Recommended Actions
-Actionable suggestions for management.
-
-
-## 🛠️ Tech Stack
-Layer	Tools
-Database	MySQL
-Analysis	Python (Pandas, NumPy, Scikit-learn)
-Visualization	Power BI
-Version Control	Git & GitHub
+1.Executive Summary – High-level cost and delay impact
+2.Delay & Cost Analysis – Root cause of delays
+3.Resource Optimization – Utilization and idle cost
+4.Skill Mismatch Analysis – Allocation quality
+5.Decision Simulator – Before vs After cost impact
 
 
 ## 🎯 What This Project Demonstrates
@@ -93,10 +66,26 @@ Industry-relevant KPIs for IT service companies
 Predictive analytics, not just descriptive
 
 
+##🔹 Decision Log
+Reallocated skill-matched resources to high-delay tasks
+Optimized workload for underutilized senior resources
+Reduced idle cost and potential delay impact by ~20%
+
+
+##🔹 Key Insights
+40%+ delays originated from a small set of tasks
+Skill mismatches significantly increased delay duration
+High-cost resources were underutilized, increasing idle cost
+Data-driven reallocation showed measurable cost reduction
+
+
+##Business Impact
+This analysis demonstrates how workflow optimization and strategic resource allocation can reduce project delays and minimize labor cost overruns in IT service environments.
+
+
 ## 👨‍💻 Author
 Chetan Suraswal
 BCA Student | Aspiring Data Analyst
-
 
 
 ## 📈 Dashboard Preview
